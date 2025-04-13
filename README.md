@@ -1,5 +1,5 @@
 # Build-Responsive-Real-World-Websites-with-HTML-and-CSS
-📌 Projects from Build Responsive Real-World Websites with HTML and CSS, the best-selling and top-rated HTML & CSS course on Udemy, created by Jonas Schmedtmann.
+📌 Projects from Build Responsive Real-World Websites with HTML and CSS, the best-selling and top-rated HTML & CSS course on Udemy, created by **Jonas Schmedtmann**.
 
 🌟 Final Project: Omnifood  
 The final project, Omnifood, was built using best web design practices, ensuring:  
